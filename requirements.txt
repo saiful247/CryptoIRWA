@@ -1,0 +1,4 @@
+ag2[gemini]
+autogen-agentchat[gemini]~=0.2
+google-genai
+google-generativeai
